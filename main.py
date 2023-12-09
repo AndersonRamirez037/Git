@@ -1,1 +1,1 @@
-print("Hello Git!")
+print("Modifying the first commit for second time: Hello Git!")
