@@ -1,1 +1,1 @@
-print("Hello Git3! v3. Login")
+print("Hello Git3! v3.")
